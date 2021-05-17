@@ -43,5 +43,5 @@ Check out the GitHub repository:
 
 <h2>My Github Activity</h2>
 - And here's a graph for people who like graphs:
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Honey-10&theme=github)
+- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Honey-10&theme=github)
 
