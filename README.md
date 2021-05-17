@@ -32,6 +32,8 @@ Check out the GitHub repository:
 
 <div>  
   <p align="center">
+   <b><em>Github Stats Stats:</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Honey-10&show_icons=true&theme=radical" alt="GitHub Stats" /> <br/><br/>
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Honey-10" alt="GitHub Stats" /> <br/><br/>
   <b><em>Most Used Languages:</em></b> <br/>
