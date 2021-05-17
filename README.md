@@ -29,7 +29,7 @@ Check out the GitHub repository:
 </div>
 
 <!--code in-->
-<h3>Things i code with</h3>
+<h2>Things i code with</h2>
 
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
