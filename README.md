@@ -6,3 +6,24 @@
 
 I'm Harmeet Singh!
 - <i>Currently:</i> Electronics and Communications Student at GTBIT(IPU)
+
+h2>💻 I'm Currently Learning</h2>
+
+__Guru Tegh Bahadur Institute of Technology__
+- Introduction to Embedded system
+- Introduction to Django Framework
+- Introduction to Web development
+
+<h2>Currently working on:</h2>
+Check out the GitHub repository:
+
+<div>
+  <p>
+    <a href="https://github.com/Honey-10/Registration_Form">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Honey-10&repo=Registration_Form&show_owner=True" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Honey-10/College-Manage-system-">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Honey-10&repo=College-Manage-system-&show_owner=True" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
