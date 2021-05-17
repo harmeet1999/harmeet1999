@@ -7,7 +7,7 @@
 I'm Harmeet Singh!
 - <i>Currently:</i> Electronics and Communications Student at GTBIT (IPU)
 
-h2>💻 I'm Currently Learning</h2>
+<h2>💻 I'm Currently Learning</h2>
 
 __Guru Tegh Bahadur Institute of Technology__
 - Introduction to Embedded system
@@ -40,3 +40,8 @@ Check out the GitHub repository:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honey-10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" alt="lan used" />
   </p>
 </div>
+
+<h2>My Github Activity</h2>
+- And here's a graph for people who like graphs:
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Honey-10&theme=github)
+
