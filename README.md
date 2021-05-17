@@ -1,4 +1,4 @@
-https://i.imgur.com/B7yswdj.png
+![alt_text](https://i.imgur.com/B7yswdj.png)
 
 <h2>Hey! 👋</h2>
 
