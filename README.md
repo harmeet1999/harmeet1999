@@ -17,7 +17,10 @@ I'm Harmeet Singh!
 
 <h2> Check out the GitHub repository: </h2>
 
-![alt_text](./R.jpg)
+<!-- ![alt_text](./R.jpg) -->
+<p align="center">
+   <img src="./commit.jpg" width="600" height="600">
+ </p>
 
  <h2> Currently working on:</h2>
 Check out the GitHub repository:
