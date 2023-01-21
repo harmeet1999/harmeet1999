@@ -46,16 +46,16 @@ Check out the GitHub repository:
 <div>  
   <p align="center">
    <b><em>Github Stats Stats:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=harmeet1999&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=harmeet1999&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> <br/><br/>
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harmeet1999" alt="GitHub Stats" /> <br/><br/>
   <b><em>Most Used Languages:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmeet1999&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" alt="lan used" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmeet1999&langs_count=8)](https://github.com/harmeet1999/github-readme-stats" alt="lan used" />
   </p>
 </div>
 
 <h2>My Github Activity</h2>
 And here's a graph for people who like graphs:
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=harmeet1999&theme=github)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harmeet1999&theme=dracula)
 
