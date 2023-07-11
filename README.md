@@ -2,7 +2,7 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=harmeet1999.harmeet1999)](https://github.com/harmeet1999) [![GitHub followers](https://img.shields.io/github/followers/harmeet1999.svg?style=social&label=Follow)](https://github.com/harmeet1999?tab=followers)  [![Linkedin](https://img.shields.io/badge/harmeet-singh-0189aabb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harmeet-singh-0189aabb/)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=harmeet1999.harmeet1999)](https://github.com/harmeet1999) [![GitHub followers](https://img.shields.io/github/followers/harmeet1999.svg?style=social&label=Follow)](https://github.com/harmeet1999?tab=followers)  [![Linkedin](https://img.shields.io/badge/harmeet-singh-0189aabb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harmeetss/)
 
 
 I'm Harmeet Singh!
