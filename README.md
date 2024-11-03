@@ -50,7 +50,7 @@ Check out the GitHub repository:
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=harmeet1999" alt="GitHub Stats" /> <br/><br/>
   <b><em>Most Used Languages:</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmeet1999&langs_count=8)](https://github.com/harmeet1999/github-readme-stats" alt="lan used" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmeet1999&langs_count=8")](https://github.com/harmeet1999/github-readme-stats" alt="lan used" />
   </p>
 </div>
 
