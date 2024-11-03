@@ -57,5 +57,5 @@ Check out the GitHub repository:
 <h2>My Github Activity</h2>
 And here's a graph for people who like graphs:
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harmeet1999&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harmeet1999&theme=dracula)](https://github.com/harmeet1999/github-readme-activity-graph)
 
