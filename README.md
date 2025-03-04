@@ -32,10 +32,15 @@
   <tr align="center">
     <td>
   <a href="https://leetcode.com/harmeet10/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50" height="100" width="100" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50" height="100" width="100" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://leetcode.com/harmeet10/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="30 Days of JavaScript" height="100" width="100" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="30 Days of JavaScript" height="100" width="100" style="vertical-align: middle; margin-right: 10px;" />
+  </a>
+  <a href="https://www.credly.com/badges/35c4dce3-f62e-4306-be85-9e34f7cb3b9b/public_url" target="_blank">
+    <img align="center" src="https://images.credly.com/size/220x220/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" 
+         alt="Relational Model (SQL) to MongoDB's Document Model" 
+         height="100" width="100" style="vertical-align: middle;" />
   </a>
     </td>
     <td>
