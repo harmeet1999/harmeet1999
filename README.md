@@ -42,6 +42,11 @@
          alt="Relational Model (SQL) to MongoDB's Document Model" 
          height="100" width="100" style="vertical-align: middle;" />
   </a>
+        <a href="https://www.credly.com/earner/earned/badge/ffdca236-6507-493c-bc32-12b421f4a090/public_url" target="_blank">
+    <img align="center" src="https://images.credly.com/images/c0733ced-67e1-4f03-bc9d-5d1f2b7ac473/blob" 
+         alt="MongoDB Schema Design Patterns and Antipatterns" 
+         height="100" width="100" style="vertical-align: middle;" />
+  </a>
     </td>
     <td>
       <a href="https://leetcode.com/harmeet10/" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/harmeet10?theme=dark&font=Nunito&ext=contest" /></a> 
