@@ -37,6 +37,11 @@
   <a href="https://leetcode.com/harmeet10/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="30 Days of JavaScript" height="100" width="100" style="vertical-align: middle; margin-right: 10px;" />
   </a>
+  <a href="https://www.credly.com/earner/earned/badge/863321a0-1147-4774-9647-0ec1221c66c2/public_url" target="_blank">
+    <img align="center" src="https://images.credly.com/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" 
+         alt="Building GenAI Applications with MongoDB" 
+         height="110" width="110" style="vertical-align: middle;" />
+  </a>
   <a href="https://www.credly.com/badges/35c4dce3-f62e-4306-be85-9e34f7cb3b9b/public_url" target="_blank">
     <img align="center" src="https://images.credly.com/size/220x220/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" 
          alt="Relational Model (SQL) to MongoDB's Document Model" 
