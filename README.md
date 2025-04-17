@@ -40,6 +40,9 @@
         <a href="https://leetcode.com/harmeet10/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="LeetCode 75" height="100" width="100" style="vertical-align: middle; margin-right: 10px;" />
   </a>
+                    <a href="https://leetcode.com/harmeet10/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 75" height="100" width="100" style="vertical-align: middle; margin-right: 10px;" />
+  </a>
               <a href="https://leetcode.com/harmeet10/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="LeetCode 75" height="100" width="100" style="vertical-align: middle; margin-right: 10px;" />
   </a>
